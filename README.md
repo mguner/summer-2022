@@ -1,5 +1,5 @@
 
 # DS 5110
 
-Introduction to Data Management and Processing
+Introduction to Data Management and Processing Summer
 
