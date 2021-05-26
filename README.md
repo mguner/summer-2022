@@ -7,3 +7,5 @@ Introduction to Data Management and Processing
 * [02a-DataViz.ipynb](./02a-DataViz.ipynb) -- 18 May
 * [02b-DataViz.ipynb](./02b-DataViz.ipynb) -- 18 May
 * [02c-DataViz.ipynb](./02c-DataViz.ipynb) -- 20 May
+* [03a-DataProcessing.ipynb](./03a-DataProcessing.ipynb) -- 25 May
+* [03b-DataLoading.ipynb](./03b-DataLoading.ipynb) -- 25 May
