@@ -14,3 +14,4 @@ Introduction to Data Management and Processing
 * [04b-EDA.ipynb](./04b-EDA.ipynb) -- 3 & 8 Jun
 * [04c-EDAgeo.ipynb](./04c-EDAgeo.ipynb) -- 8 Jun
 * [04c-EDAobservable.ipynb](./04c-EDAobservable-EDA.ipynb) -- 8 Jun
+* [05a-SQL.ipynb](./04c-EDAobservable-EDA.ipynb) -- 10 Jun
