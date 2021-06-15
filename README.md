@@ -15,5 +15,5 @@ Introduction to Data Management and Processing
 * [04c-EDAgeo.ipynb](./04c-EDAgeo.ipynb) -- 8 Jun
 * [04c-EDAobservable.ipynb](./04c-EDAobservable-EDA.ipynb) -- 8 Jun
 * [05a-SQL.ipynb](./05a-SQL.ipynb) -- 10 Jun
-* [05a-rdbms.ipynb](./05a-rdbms.ipynb) -- 15 Jun
-* [05a-flights-intro.ipynb](./05a-flights-intro.ipynb) -- 15 Jun
+* [05b-rdbms.ipynb](./05b-rdbms.ipynb) -- 15 Jun
+* [05c-flights-intro.ipynb](./05c-flights-intro.ipynb) -- 15 Jun
