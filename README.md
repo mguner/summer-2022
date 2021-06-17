@@ -17,3 +17,4 @@ Introduction to Data Management and Processing
 * [05a-SQL.ipynb](./05a-SQL.ipynb) -- 10 Jun
 * [05b-rdbms.ipynb](./05b-rdbms.ipynb) -- 15 Jun
 * [05c-flights-intro.ipynb](./05c-flights-intro.ipynb) -- 15 Jun
+* [05d-observable-maps.ipynb](./05c-observable-maps.ipynb) -- 15 Jun
