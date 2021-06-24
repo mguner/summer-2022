@@ -18,3 +18,4 @@ Introduction to Data Management and Processing
 * [05b-rdbms.ipynb](./05b-rdbms.ipynb) -- 15 Jun
 * [05c-flights-intro.ipynb](./05c-flights-intro.ipynb) -- 15-22 Jun
 * [05d-observable-maps.ipynb](./05d-observable-maps.ipynb) -- 22 Jun
+* [06-Modeling-1.ipynb](./06-Modeling-1.ipynb) -- 24 Jun
