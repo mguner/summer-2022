@@ -24,5 +24,5 @@ Introduction to Data Management and Processing
 * [07-Modeling2-validation.ipynb](./07-Modeling2-validation.ipynb) -- 8 Jul
 * [08-Statistics.ipynb](./08-Statistics.ipynb) -- 13 Jul
 * [08a-statsmodels.ipynb](./08a-statsmodels.ipynb) -- 13 Jul
-* [08b-hypothesis-testing.ipynb](./08b-hypothesis-testing.ipynb) -- 13-15 Jul
-* [08c-hypothesis-testing.ipynb](./08b-diamonds.ipynb) -- 15 Jul
+* [08b-hypothesis-testing.ipynb](./08b-hypothesis-testing.ipynb) -- 15 Jul
+* [08c-diamonds.ipynb](./08b-diamonds.ipynb) -- 15 Jul
