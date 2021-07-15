@@ -20,4 +20,8 @@ Introduction to Data Management and Processing
 * [05d-observable-maps.ipynb](./05d-observable-maps.ipynb) -- 22 Jun
 * [06-Modeling-1.ipynb](./06-Modeling-1.ipynb) -- 24 Jun
 * [07a-planets.ipynb](./07a-planets.ipynb) -- 6 Jul
-* [07b-diabetes.ipynb](./07b-diabetes.ipynb) -- 6 Jul
+* [07b-diabetes.ipynb](./07b-diabetes.ipynb) -- 6-8 Jul
+* [07-Modeling2-validation.ipynb](./07-Modeling2-validation.ipynb) -- 8 Jul
+* [08-Statistics.ipynb](./08-Statistics.ipynb) -- 13 Jul
+* [08a-statsmodels.ipynb](./08a-statsmodels.ipynb) -- 13 Jul
+* [08b-hypothesis-testing.ipynb](./08b-hypothesis-testing.ipynb) -- 13 Jul
