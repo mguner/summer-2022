@@ -29,4 +29,4 @@ Introduction to Data Management and Processing
 * [09-SupervisedML.ipynb](./09-SupervisedML.ipynb) -- 13 & 20 Jul
 * [09a-naive-bayes-iris.ipynb](./09a-naive-bayes-iris.ipynb) -- 20 Jul
 * [09b-naive-bayes-digits.ipynb](./09b-naive-bayes-digits.ipynb) -- 20 Jul
-* [09c-logistic-regression-digits.ipynb](./09c-logistic-regression-digits.ipynb) -- 20 Jul
+* [09c-logistic-regression-iris.ipynb](./09c-logistic-regression-iris.ipynb) -- 20 Jul
