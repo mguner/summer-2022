@@ -26,3 +26,7 @@ Introduction to Data Management and Processing
 * [08a-statsmodels.ipynb](./08a-statsmodels.ipynb) -- 13 Jul
 * [08b-hypothesis-testing.ipynb](./08b-hypothesis-testing.ipynb) -- 15 Jul
 * [08c-diamonds.ipynb](./08c-diamonds.ipynb) -- 15 Jul
+* [09-SupervisedML.ipynb](./09-SupervisedML.ipynb) -- 13 & 20 Jul
+* [09a-naive-bayes-iris.ipynb](./09a-naive-bayes-iris.ipynb) -- 20 Jul
+* [09b-naive-bayes-digits.ipynb](./09b-naive-bayes-digits.ipynb) -- 20 Jul
+* [09c-logistic-regression-digits.ipynb](./09c-logistic-regression-digits.ipynb) -- 20 Jul
