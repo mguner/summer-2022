@@ -29,4 +29,6 @@ Introduction to Data Management and Processing
 * [09-SupervisedML.ipynb](./09-SupervisedML.ipynb) -- 13 & 20 Jul
 * [09a-naive-bayes-iris.ipynb](./09a-naive-bayes-iris.ipynb) -- 20 Jul
 * [09b-naive-bayes-digits.ipynb](./09b-naive-bayes-digits.ipynb) -- 22 Jul
-* [09c-logistic-regression-iris.ipynb](./09c-logistic-regression-iris.ipynb) -- 22 Jul
+* [09c-logistic-regression-iris.ipynb](./09c-logistic-regression-iris.ipynb) -- 22 & 27 Jul
+* [09d-classification-metrics-iris.ipynb](./09d-classification-metrics-iris.ipynb) -- 27 Jul
+* [10-UnsupervisedML-pca.ipynb](./10-UnsupervisedML-pca.ipynb) -- 27 Jul
