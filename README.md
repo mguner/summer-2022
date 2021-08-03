@@ -33,3 +33,8 @@ Introduction to Data Management and Processing
 * [09d-classification-metrics-iris.ipynb](./09d-classification-metrics-iris.ipynb) -- 27 Jul
 * [10-UnsupervisedML-pca.ipynb](./10-UnsupervisedML-pca.ipynb) -- 29 Jul
 * [10a-kmeans-digits.ipynb](./10a-kmeans-digits.ipynb) -- 29 Jul
+* [11-NLP.ipynb](./11-NLP.ipynb) -- 3 Aug
+* [11a-sentiment-imdb.ipynb](./11a-sentiment-imdb.ipynb) -- 3 Aug
+* [11b-naive-bayes-20newsgroups.ipynb](./11b-naive-bayes-20newsgroups.ipynb) -- 3 Aug
+* [11c-lsa-brown.ipynb](./11c-lsa-brown.ipynb) -- 3 Aug
+* [11d-lda-imdb.ipynb](./11d-lda-imdb.ipynb) -- 3 Aug
