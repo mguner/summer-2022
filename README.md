@@ -36,5 +36,5 @@ Introduction to Data Management and Processing
 * [11-NLP.ipynb](./11-NLP.ipynb) -- 3 Aug
 * [11a-sentiment-imdb.ipynb](./11a-sentiment-imdb.ipynb) -- 3 Aug
 * [11b-naive-bayes-20newsgroups.ipynb](./11b-naive-bayes-20newsgroups.ipynb) -- 3 Aug
-* [11c-lsa-brown.ipynb](./11c-lsa-brown.ipynb) -- 3 Aug
-* [11d-lda-imdb.ipynb](./11d-lda-imdb.ipynb) -- 3 Aug
+* [11c-lsa-brown.ipynb](./11c-lsa-brown.ipynb) -- 5 Aug
+* [11d-lda-imdb.ipynb](./11d-lda-imdb.ipynb) -- 5 Aug
