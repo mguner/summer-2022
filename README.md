@@ -38,3 +38,5 @@ Introduction to Data Management and Processing
 * [11b-naive-bayes-20newsgroups.ipynb](./11b-naive-bayes-20newsgroups.ipynb) -- 5 Aug
 * [11c-lsa-brown.ipynb](./11c-lsa-brown.ipynb) -- 5 Aug
 * [11d-lda-imdb.ipynb](./11d-lda-imdb.ipynb) -- 5 Aug
+* [bcw-notebook.ipynb](bcw-notebook.ipynb) -- 12 Aug
+* [satellite-notebook.ipynb](satellite-notebook.ipynb) -- 12 Aug
